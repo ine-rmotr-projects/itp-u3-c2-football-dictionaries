@@ -106,8 +106,8 @@ def test_assignment_3():
     result = players_by_country_and_position(SQUADS_DATA)
     assert len(result) == 4
 
-    expected_countries = ['Argentina', 'Belgium', 'Brazil', 'South Korea']
-    assert list(result.keys()) == expected_countries
+    expected_countries = {'Argentina', 'Belgium', 'Brazil', 'South Korea'}
+    assert set(result.keys()) == expected_countries
 
     # Argentina
     argentina = result['Argentina']
