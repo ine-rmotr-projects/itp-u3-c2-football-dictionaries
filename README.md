@@ -127,7 +127,7 @@ We've got together with a few students to present a possible solution. Watch it 
 
 <p align="center">
   <a href="https://youtu.be/p-tWuQc95YQ" target="_blank">
-    <img src="https://img.youtube.com/vi/p-tWuQc95YQ/maxresdefault.jpg">
+    <img src="https://img.youtube.com/vi/p-tWuQc95YQ/0.jpg">
   </a>
 </p>
 
