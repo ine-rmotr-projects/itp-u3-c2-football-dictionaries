@@ -1,12 +1,12 @@
 # Football Dictionaries
 
-Today's project will deal with two of our greatest passions: dictionaries and football 😉. This project requires the use of nested collections (lists of lists, dicts nested under lists, etc) and nested control flow structures. It's the final challenge regarding collections. If you can complete this project, you'll be the Master of Data and Collections.
+Today's project will deal with two of our greatest passions: dictionaries and football 😉. This project requires the use of nested collections (lists of lists, dicts nested under lists, etc) and nested control flow structures. It's the final challenge regarding collections for our course. If you can complete this project, you'll become a **Master of Data and Collections** and you might even get a gold star.
 
 ## Warm up
 
-Before approaching the real tasks of the projects, there's a warm up section to revisit collection topics (specially when they're nested).
+Before approaching the main tasks of the project, there's a warm up section to revisit topics about collections (especially when they're nested).
 
-There are 4 assignments under the `warm_up` directory. The tests for these assignments are under `test_warmup.py`. We won't provide too many instructions for the assignments. This is **on purpose**, you should be able to read the tests and figure out how to solve them. To run the tests you can use the following commands:
+There are 4 assignments under the `warm_up` directory. The tests for these assignments are under `test_warmup.py`. We won't provide instructions for the warm ups and this is **on purpose**. You need to be able to read the tests and figure out how to solve them. To run the tests you can use the following commands:
 
 **Assignment 1**
 ``` bash
@@ -30,9 +30,11 @@ All working? Great! Now let's move on to the real project.
 
 ## The Real Project
 
-After finishing the warm up section, you'll be ready to take over the real project. This project is divided into 3 assignments, each one requires something different. But all these assignments will deal with the same initial data: **a list of players structured as a "list of lists"**.
+After finishing the warm up section, you'll be ready to take on the real project. This project is divided into 3 assignments, each one requires something different. But all these assignments will deal with the same initial data: **a list of players structured as a "list of lists"**.
 
-To put it in human: There's a big list that has players inside. But each player is represented as a list, with each position in the list being a different piece of information for the player.
+Translation to human: There's a big list that has players inside. But each player is represented as a list, with each position in the list being a different piece of information for the player.
+
+Note: This project is very similar to the one we did organizing the invoice data on class 1 of this week!
 
 Example:
 
