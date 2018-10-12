@@ -1,32 +1,12 @@
 # Football Dictionaries
 
+**[Work on this project on RMOTR](https://notebooks.rmotr.com/projects/create?repo_url=https://github.com/rmotr-group-projects/itp-u3-c2-football-dictionaries&name=RMOTR+Football+Dictionaries)**
+
 Today's project will deal with two of our greatest passions: dictionaries and football 😉. This project requires the use of nested collections (lists of lists, dicts nested under lists, etc) and nested control flow structures. It's the final challenge regarding collections for our course. If you can complete this project, you'll become a **Master of Data and Collections** and you might even get a gold star.
 
 ## Warm up
 
-Before approaching the main tasks of the project, there's a warm up section to revisit topics about collections (especially when they're nested).
-
-There are 4 assignments under the `warm_up` directory. The tests for these assignments are under `test_warmup.py`. We won't provide instructions for the warm ups and this is **on purpose**. You need to be able to read the tests and figure out how to solve them. To run the tests you can use the following commands:
-
-**Assignment 1**
-``` bash
-$ py.test test_warmup.py -k assignment_1
-```
-
-**Assignment 2**
-``` bash
-$ py.test test_warmup.py -k assignment_2
-```
-
-(for the rest just change the numbers (`3`, `4`, etc)).
-
-Once you're done with the whole _Warm Up_ section, run ALL the tests with the following command:
-
-``` bash
-$ py.test test_warmup.py
-```
-
-All working? Great! Now let's move on to the real project.
+Before approaching the main tasks of the project, there's a warm up section to revisit topics about collections (especially when they're nested). Open the notebook `Warm Up Activities.ipynb` to practice with them. There's also a notebook containing the solutions in case you need some help.
 
 ## The Real Project
 
