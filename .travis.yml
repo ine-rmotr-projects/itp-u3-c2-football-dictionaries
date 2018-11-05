@@ -12,7 +12,6 @@ install:
   - pip install -r dev-requirements.txt
 
 script:
-  - "py.test -v --tb=short test_warmup.py"
   - "py.test -v --tb=short tests.py"
 
 
