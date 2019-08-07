@@ -1,7 +1,5 @@
 # Football Dictionaries
 
-<a href="https://notebooks.rmotr.com/clone/gh/rmotr-group-projects/itp-u3-c2-football-dictionaries"><img src="https://img.shields.io/badge/launch-RMOTR%20Notebooks-blue.svg"></a>
-
 Today's project will deal with two of our greatest passions: dictionaries and football 😉. This project requires the use of nested collections (lists of lists, dicts nested under lists, etc) and nested control flow structures. It's the final challenge regarding collections for our course. If you can complete this project, you'll become a **Master of Data and Collections** and you might even get a gold star.
 
 ## Warm up
