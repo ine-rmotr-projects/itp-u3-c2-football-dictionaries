@@ -42,7 +42,7 @@ def players_by_position(squads_list):
 			position_dict[key] = templist
 	return position_dict
 
-def players_by_country_and_position(squads_list)
+def players_by_country_and_position(squads_list):
 	new_list = []
 	for i in squads_list:
 		new_dict = {}
