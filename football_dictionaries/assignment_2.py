@@ -1,4 +1,5 @@
 def players_by_position(squads_list):
+	new_list = []
 	for i in squads_list:
 		new_dict = {}
 		new_dict['number'] = i[0]
