@@ -7,7 +7,7 @@ def players_as_dictionaries(squads_list):
 
         new_dict['name'] = i[2]
 
-        new_dict['date of birth'] = i[3]
+        new_dict['date_of_birth'] = i[3]
 
         new_dict['caps'] = i[4]
 
@@ -15,7 +15,7 @@ def players_as_dictionaries(squads_list):
 
         new_dict['country'] = i[6]
 
-        new_dict['club country'] = i[7]
+        new_dict['club_country'] = i[7]
 
         new_dict['year'] = i[8]
         new_list.append(new_dict)
