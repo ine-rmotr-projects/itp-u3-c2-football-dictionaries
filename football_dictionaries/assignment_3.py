@@ -13,13 +13,13 @@ def players_by_country_and_position(squads_list):
 		new_dict['year'] = i[8]
 		new_list.append(new_dict)
 	country_dict = {}
-	for i in pos_list:
+	for i in squads_list:
 		for key,elem in i.items():
 			if key == 'country' and elem not in country_dict:
 				country_dict[elem] = {}
 	for key_main,elem_main in country_dict.items():
 		position_dict = {}
-		for i in pos_list:
+		for i in squads_list:
 			for keyplayer, elem in i.items():
 				if keyplayer == 'position' and elem not in position_dict and i['country']== key_main:
 					position_dict[elem] = {}
