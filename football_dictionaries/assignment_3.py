@@ -73,7 +73,7 @@ def players_by_country_and_position(squads_list):
 				playerlist = []
 				for i in new_list:
 					if i['country'] == key_main and i['position'] == keypos:
-				     	playerlist.append(i)
+						playerlist.append(i)
 				position_dict[keypos] = playerlist
 			countrylist = position_dict
 		country_dict[key_main] = countrylist
