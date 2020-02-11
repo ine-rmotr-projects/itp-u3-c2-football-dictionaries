@@ -1,6 +1,6 @@
 def players_as_dictionaries(squads_list):
     new_list = []
-    for i in squad_list:
+    for i in squads_list:
         new_dict = {}
         new_dict['number'] = i[0]
         new_dict['position'] = i[1]
