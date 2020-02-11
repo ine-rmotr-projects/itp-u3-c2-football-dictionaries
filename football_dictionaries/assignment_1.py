@@ -21,3 +21,4 @@ def players_as_dictionaries(squads_list):
         new_list.append(new_dict)
     return new_list
 
+
