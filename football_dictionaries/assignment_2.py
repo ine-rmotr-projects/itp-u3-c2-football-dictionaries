@@ -21,6 +21,6 @@ def players_by_position(squads_list):
 		templist = []
 		for i in new_list:
 			if i['position'] == key:
-				templist.append(i['name'])
+				templist.append(i)
 			position_dict[key] = templist
 	return position_dict
