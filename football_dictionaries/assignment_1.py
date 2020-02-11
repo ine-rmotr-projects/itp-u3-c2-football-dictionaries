@@ -19,5 +19,5 @@ def players_as_dictionaries(squads_list):
 
         new_dict['year'] = i[8]
         new_list.append(new_dict)
-      return new_list
+    return new_list
 
