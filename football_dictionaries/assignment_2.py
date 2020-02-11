@@ -18,9 +18,9 @@ def players_by_position(squads_list):
 			if key == 'position' and elem not in position_dict:
 				position_dict[elem] = {}
 	for key, elem in position_dict.items():
-		templist = set()
+		templist = []
 		for i in new_list:
 			if i['position'] == key:
-				templist.add(i['name'])
+				templist.append(i['name'])
 			position_dict[key] = templist
 	return position_dict
