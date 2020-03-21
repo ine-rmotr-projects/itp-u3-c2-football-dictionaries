@@ -3,7 +3,7 @@ def players_as_dictionaries(squads_list):
     for squad_member in squads_list:
         result.append({
                 'number': squad_member[0],
-				'position': squad_member[1],
+		'position': squad_member[1],
                 'name': squad_member[2],
                 'date_of_birth': squad_member[3],
                 'caps': squad_member[4],
