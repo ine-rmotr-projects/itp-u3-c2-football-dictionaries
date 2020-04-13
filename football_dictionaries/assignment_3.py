@@ -1,4 +1,5 @@
 def players_by_country_and_position(squads_list):
+    squads_list = players_as_dictionaries(squads_list)
     players_grouped_by_position_and_country = {}
     for position, players in squads_list.items():
         for player in players:
