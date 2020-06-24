@@ -1,6 +1,6 @@
 # Football Dictionaries
 
-Today's project will deal with two of our greatest passions: dictionaries and football 😉. This project requires the use of nested collections (lists of lists, dicts nested under lists, etc) and nested control flow structures. It's the final challenge regarding collections for our course. If you can complete this project, you'll become a **Master of Data and Collections** and you might even get a gold star.
+This project will deal with two of our greatest passions: dictionaries and football! 😉 This will require the use of nested collections (lists of lists, dicts nested under lists, etc) and nested control flow structures. It's the final challenge regarding collections for our course. If you can complete this project, you'll become a **Master of Data and Collections** and you might even get a gold star.
 
 ## Warm up
 
@@ -8,11 +8,11 @@ Before approaching the main tasks of the project, there's a warm up section to r
 
 ## The Real Project
 
-After finishing the warm up section, you'll be ready to take on the real project. This project is divided into 3 assignments, each one requires something different. But all these assignments will deal with the same initial data: **a list of players structured as a "list of lists"**.
+After finishing the warm up section, you'll be ready to take on the real project. This project is divided into 3 assignments, each one requires something different. However, all of the assignments will deal with the same initial data: **a list of players structured as a "list of lists"**.
 
-Translation to human: There's a big list that has players inside. But each player is represented as a list, with each position in the list being a different piece of information for the player.
+Translation to human: There's a big list that has players inside. But each player is represented as a list, with each position in the list being a different piece of information about the player.
 
-Note: This project is very similar to the one we did organizing the invoice data on class 1 of this week!
+
 
 Example:
 
@@ -44,7 +44,7 @@ SQUADS_DATA = [
 ]
 ```
 
-Your job through this entire group project will be to transform these lists to Dictionaries.
+Your job through this project will be to transform these lists to Dictionaries organized in various manners.
 
 ### Assignment 1 - Lists to Dicts
 
@@ -110,7 +110,7 @@ This assignment is similar to the previous one, but instead of having just one b
 
 ### Assignment 3
 
-And finally this is really similar to the second assignment but we'll add one more level of nesting. This function will return the players grouped by country, and per each country, grouped by position. Example:
+And finally this is really similar to the previous assignment but we're adding one more level of nesting. This function will return the players grouped by country, and per each country, grouped by position. Example:
 
 ```python
 {
