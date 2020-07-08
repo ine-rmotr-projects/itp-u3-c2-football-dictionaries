@@ -128,13 +128,3 @@ And finally this is really similar to the second assignment but we'll add one mo
   }
 }
 ```
-
-## Walkthrough solution
-
-We've got together with a few students to present a possible solution. Watch it on YouTube:
-
-<p align="center">
-  <a href="https://youtu.be/p-tWuQc95YQ" target="_blank">
-    <img src="https://img.youtube.com/vi/p-tWuQc95YQ/0.jpg">
-  </a>
-</p>
